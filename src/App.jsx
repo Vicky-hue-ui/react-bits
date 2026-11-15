@@ -3,39 +3,39 @@ import ChromaGrid from './component/ChromaGrid'
 
 const items = [
   {
-    image: 'Doremon.jpg',
-    title: 'Doremon',
-    subtitle: 'Robotic Cat',
+    image: 'gym.jpg',
+    title: 'Gym',
+    subtitle: 'Fitness',
     accent: '#ffd23f'
   },
   {
-    image: 'sunset.jpg',
-    title: 'sunset',
-    subtitle: 'Evening',
-    accent: '#3fb8ff',
-  },
-  {
-    image: 'Rose.jpg',
-    title: 'Rose',
-    subtitle: 'Velvet Blooms',
-    accent: '#3fb8ff',
-  },
-  {
-    image: 'rainbow.jpg',
-    title: 'Rainbow',
-    subtitle: 'Happy Colors',
-    accent: '#3fb8ff',
-  },
-  {
-    image: 'waterfalls.jpg',
-    title: 'waterfalls',
-    subtitle: 'beauty ',
-    accent: '#3fb8ff',
-  },
-  {
-    image: 'dubai.jpg',
-    title: 'Dubai',
+    image: 'london.jpg',
+    title: 'London',
     subtitle: 'City of Dreams',
+    accent: '#3fb8ff',
+  },
+  {
+    image: 'nature.jpg',
+    title: 'nature',
+    subtitle: 'beauty',
+    accent: '#3fb8ff',
+  },
+  {
+    image: 'sea.jpg',
+    title: 'Sea',
+    subtitle: 'Serenity',
+    accent: '#3fb8ff',
+  },
+  {
+    image: 'starfish.jpg',
+    title: 'Starfish',
+    subtitle: 'Ocean Wonders',
+    accent: '#3fb8ff',
+  },
+  {
+    image: 'tiger.jpg',
+    title: 'White Tiger',
+    subtitle: 'Majestic Predator',
     accent: '#3fb8ff',
   }
 ];
